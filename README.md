@@ -1,5 +1,5 @@
 ## Practical Application Assignment 5.1
-Notebook Link
+Notebook Link: https://github.com/SamanthaHGerber/SamanthaHGerber/blob/main/Module%205.1%20Gerber.ipynb
 
 ## Summary of Findings
 I analyzed coupons for Coffee Houses sent to drivers and their acceptance rate. I looked at different factors to determine what would be most likely to cause them to either accept or reject a coupon. To focus on the Coffee House coupon specific data, I created a new dataframe that only included coupons for Coffee Houses. 
